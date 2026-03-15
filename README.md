@@ -2,7 +2,7 @@
 
 <h2>Sobre mim</h2>
 
-  Eu sou Matheus Sant'Ana, sou um estudante do Ensino Médio no IFSP Campus Salto
+  Sou Matheus Sant'Ana, sou técnico em Informática pelo Instituto Federal de São Paulo (IFSP)
   e sou um grande admirador da arte da programação e desenvolvimento de softwares.
   Desde sempre tive esse interesse pela tecnologia e como ela funcionava.
 
@@ -22,13 +22,13 @@
   <h3>Línguagens e Ferramentas</h3>
 
 <li>
-  Atualmente tenho habilidades com JavaScript, HTML, CSS e SQL mas, procuro não só
+  Atualmente tenho habilidades com Java, Node.js, JavaScript, Pyhon, HTML, CSS e SQL, mas procuro não só
   sempre expandir meu conhecimento sobre programação e banco de dados, como também
   aprimorar ao máximo meus conhecimentos sobre elas.
 </li>
 
 <li>
-  Minhas ferramentas de desenvolvimento atualmente são Visual Studio Code, Code,
+  Minhas IDE's atualmente são Visual Studio Code, NetBeans, PyCharm,
   MYSLQ e PostgreSQL, mas, como disse anteriormente, procuro sempre
   me desenvolver e me aprimorar cada vez mais.
 </li>
@@ -56,6 +56,11 @@ discutirmos ideias inovadoras!
 <h2>Contato</h2>
 
 <li>
+  LinkedIn:
+  <a href="https://www.linkedin.com/in/msantana-dev/">
+    Matheus S. Fuckner
+  </a>
+  
   E-mail: 
   <a href="mailto:matheussantana11107@gmail.com">
     matheussantana11107@gmail.com
@@ -64,8 +69,3 @@ discutirmos ideias inovadoras!
 <li>
   Telefone: +55 19 98810-3199
 </li>
-
-<h2>Fato sobre mim</h2>
-Sou apaixonado por Música, tenho o costume de fazer minhas coisas sempre ouvindo algo.
-
-Príncipalmente meus trabalhos e projetos.
