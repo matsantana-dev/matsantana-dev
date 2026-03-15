@@ -22,7 +22,7 @@
   <h3>Línguagens e Ferramentas</h3>
 
 <li>
-  Atualmente tenho habilidades com Java, Node.js, JavaScript, Pyhon, HTML, CSS e SQL, mas procuro não só
+  Atualmente tenho habilidades com Java, Node.js, JavaScript, Python, HTML, CSS e SQL, mas procuro não só
   sempre expandir meu conhecimento sobre programação e banco de dados, como também
   aprimorar ao máximo meus conhecimentos sobre elas.
 </li>
