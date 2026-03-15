@@ -60,12 +60,15 @@ discutirmos ideias inovadoras!
   <a href="https://www.linkedin.com/in/msantana-dev/">
     Matheus S. Fuckner
   </a>
-  
+</li>
+
+<li>
   E-mail: 
   <a href="mailto:matheussantana11107@gmail.com">
     matheussantana11107@gmail.com
   </a>
 </li>
+
 <li>
   Telefone: +55 19 98810-3199
 </li>
