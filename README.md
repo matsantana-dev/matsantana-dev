@@ -58,7 +58,7 @@ discutirmos ideias inovadoras!
 <li>
   LinkedIn:
   <a href="https://www.linkedin.com/in/msantana-dev/">
-    Matheus S. Fuckner
+    Matheus Sant'Ana
   </a>
 </li>
 
