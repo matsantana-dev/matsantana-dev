@@ -84,8 +84,8 @@ discutirmos ideias inovadoras!
 
 <li>
   E-mail: 
-  <a href="mailto:matheussantana11107@gmail.com">
-    matheussantana11107@gmail.com
+  <a href="mailto:devmsantana07@gmail.com">
+    devmsantana07@gmail.com
   </a>
 </li>
 
