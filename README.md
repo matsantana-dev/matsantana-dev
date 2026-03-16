@@ -33,9 +33,9 @@
   me desenvolver e me aprimorar cada vez mais.
 </li>
 
-<h2>Trabalhos e Projetos</h2>
+<h2>🛠️ Trabalhos e Projetos</h2>
 
-<h3>🥩 E-commerce para Açougue</h3>
+<h3>E-commerce para Açougue</h3>
 <p>
   Desenvolvimento de um site interativo para um açougue, focado na experiência 
   do usuário e gestão de vendas. O cliente pode explorar os produtos por 
