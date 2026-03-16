@@ -35,7 +35,7 @@
 
 <h2>🛠️ Trabalhos e Projetos</h2>
 
-<h3>E-commerce para Açougue</h3>
+<h3>🍖 E-commerce para Açougue 🍖</h3>
 <p>
   Desenvolvimento de um site interativo para um açougue, focado na experiência 
   do usuário e gestão de vendas. O cliente pode explorar os produtos por 
@@ -45,7 +45,7 @@
   redirecionando usuários não logados para login ou cadastro.
 </p>
 
-<h3>Plataforma de Relacionamentos</h3>
+<h3>💖 Plataforma de Relacionamentos 💖</h3>
 <p>
   Desenvolvimento de uma plataforma de conexões sociais com foco em usabilidade 
   e precisão de dados. O sistema conta com criação de contas otimizada através 
