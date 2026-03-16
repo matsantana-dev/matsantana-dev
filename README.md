@@ -1,6 +1,6 @@
 <h1>👋 Bem-vindo(a) sou Matheus Sant'Ana</h1>
 
-<h2>👤 Sobre mim 👤</h2>
+<h2>👤 Sobre mim</h2>
 
   Sou Matheus Sant'Ana, sou técnico em Informática pelo Instituto Federal de São Paulo (IFSP)
   e sou um grande admirador da arte da programação e desenvolvimento de softwares.
@@ -19,7 +19,7 @@
   Estou interessado em ter um local para armazenar e compartilhar as diversas coisas
   que faço, espero que goste. :D
 
-  <h3>💻 Línguagens e Ferramentas 💻</h3>
+  <h3>💻 Línguagens e Ferramentas</h3>
 
 <li>
   Atualmente tenho habilidades com Java, Node.js, JavaScript, Python, HTML, CSS e SQL, mas procuro não só
@@ -33,7 +33,7 @@
   me desenvolver e me aprimorar cada vez mais.
 </li>
 
-<h2>🛠️ Trabalhos e Projetos 🛠️</h2>
+<h2>🛠️ Trabalhos e Projetos</h2>
 
 <h3>🍖 E-commerce para Açougue</h3>
 <p>
@@ -55,7 +55,7 @@
   uma porcentagem de afinidade entre os perfis cadastrados.
 </p>
 
-<h2>🚀 Perspectiva de Futuro 🚀</h2>
+<h2>🚀 Perspectiva de Futuro</h2>
 
   Se tiver interesse em compartilhar alguma ideia de projeto,
   entre em contato!Estou sempre procurando novos desafios e
@@ -73,7 +73,7 @@ leitura do meu perfil no GitHub. Sinta-se livre
 para ver meus projetos e entrar em contato para
 discutirmos ideias inovadoras!
 
-<h2>📞 Contato 📞</h2>
+<h2>📞 Contato</h2>
 
 <li>
   LinkedIn:
