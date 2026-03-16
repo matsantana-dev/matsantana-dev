@@ -45,6 +45,16 @@
   redirecionando usuários não logados para login ou cadastro.
 </p>
 
+<h3>Plataforma de Relacionamentos</h3>
+<p>
+  Desenvolvimento de uma plataforma de conexões sociais com foco em usabilidade 
+  e precisão de dados. O sistema conta com criação de contas otimizada através 
+  de preenchimento automático para facilitar o onboarding. O diferencial do 
+  projeto é um algoritmo de compatibilidade baseado em um sistema de perguntas 
+  dinâmicas, que analisa os interesses e preferências dos usuários para exibir 
+  uma porcentagem de afinidade entre os perfis cadastrados.
+</p>
+
 <h2>🚀 Perspectiva de Futuro</h2>
 
   Se tiver interesse em compartilhar alguma ideia de projeto,
